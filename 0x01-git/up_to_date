@@ -1,8 +1,1 @@
-git branch
-git checkout branch/master
-git checkout -b new branch
-git add .
-git commit -m "Update respository"
-git status
-git push
-git push --set-upstream origin update_script
+git pull
